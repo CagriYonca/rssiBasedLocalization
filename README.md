@@ -1,3 +1,3 @@
 # rssiBasedLocalization
 
-![deneme](/rssi.png)
+![deneme](rssi.png)
