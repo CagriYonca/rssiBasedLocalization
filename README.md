@@ -1,3 +1,3 @@
 # rssiBasedLocalization
 
-![deneme](rssi.png)
+![deneme](https://github.com/CagriYonca/rssiBasedLocalization/blob/master/rssi.jpg?raw=true)
